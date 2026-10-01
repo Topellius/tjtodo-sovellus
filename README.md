@@ -31,3 +31,6 @@ Asenna projektin riippuvuudet:
 
 ```bash
 npm install
+
+
+https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs
