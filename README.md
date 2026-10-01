@@ -1,4 +1,4 @@
-# tjtodo-sovellus -> https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs
+# tjtodo-sovellus 
 
 Yksinkertainen TODO-sovellus, joka on toteutettu Reactilla ja Next.js:llä. Sovelluksessa voi lisätä, muokata, merkitä valmiiksi ja poistaa tehtäviä. Tehtävät tallennetaan selaimen `localStorage`-muistiin, joten ne säilyvät myös sivun päivityksen jälkeen.
 
